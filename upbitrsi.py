@@ -5,8 +5,8 @@ import pandas
 
 # acces key
 
-access = "nMdEtad6mi5tU8vqkfhfE9FXR8TjvqsX6SIPiB1E"
-secret = "DoDe7Bz5AsH8X6ifdpy6F0CImLMzTDsYTonZaY6i"
+access = ""
+secret = ""
 
 
 upbit = pyupbit.Upbit(access, secret)
